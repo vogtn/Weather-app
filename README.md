@@ -15,6 +15,8 @@ DEMO:http://codepen.io/vogtn/pen/BzyPww
    *jQuery
    
    *JSON
+   
+   *AJAX
 
 What I learned: 
   1. How to use JSON to grab location services from the browser (and ultimately the user) 
