@@ -19,7 +19,7 @@ DEMO:http://codepen.io/vogtn/pen/BzyPww
 What I learned: 
   1. How to use JSON to grab location services from the browser (and ultimately the user) 
   2. Reading API docs and understanding how to utilize them. 
-  3. Utilizing Math.round(); 
+  3. Using AJAX and jQuery to create responsive CSS. 
   
 
 
